@@ -1,0 +1,123 @@
+/* Type */
+
+
+body {
+    display: block;
+    margin: 8px;
+    background-color: black;
+   ;
+}
+
+h1 {
+	
+	font-family: 'Notable', sans-serif;
+	color: white;
+	word-spacing: 2px;
+	font-size: 80px;
+	padding-left: 400px
+	
+	
+}
+
+h2 {
+	position: absolute;
+	font-size: 500px;
+	margin: 0;
+	top: 9em;
+	left: 2em;
+	color: white;
+	
+}
+
+h3 {
+	padding-left: 800px;
+	text-transform: uppercase;
+	color: white;
+}
+
+h4 {
+	position: absolute;
+	color: white;
+	font-size: 80px;
+	transform: rotate(-45deg);
+	left: :80px;
+	top: 900px;
+	text-decoration-line: line-through;
+	text-decoration-color: red;
+	
+}
+
+h5 {
+	position: absolute;
+	color: white;
+	font-size: 80px;
+	opacity: 0.7%;
+	transform: skewY(40deg);
+	object-position: right;
+	right: 80px;
+	top: 500px;
+	font-family:
+	
+}
+
+
+h6 {
+	padding-left: 
+	padding-top: 500px;
+	color: yellow; 
+	position: absolute;
+	right: 800px;
+	top: 800px;
+	transform: rotate(90deg);
+
+}
+
+
+p {
+
+	font-size: 20px;
+	padding-left: 800px;
+	padding-right: 800px;
+	padding-top: 200px;
+	color: white;
+	font-family: 'Ramaraja', serif;
+
+
+}
+
+.position {
+	position: absolute;
+	transform: skew(50deg)
+	bottom: 0;
+	top: 300px;
+	right: 230px;
+	color: white;
+}
+
+.position2 {
+	position: absolute;
+	transform: 
+	bottom: 0;
+	top: 900px;
+	right: 600px;
+	color: white;
+}
+
+.position3 {
+	position: absolute;
+	transform: rotate(90deg);
+	top: 3000px;
+	left: 2px;
+	right: 30px;
+	color: white;
+	font-weight: normal;
+}
+
+.class {
+	position: absolute;
+	font-size: 5em;
+	top: 9em;
+	left: 2em;
+	transform: skewY(-20deg);
+	font-family: 'Ramaraja', serif;
+}
